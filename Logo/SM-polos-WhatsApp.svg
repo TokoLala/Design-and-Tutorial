@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="SM-polos-WhatsApp.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.54252946"
+     inkscape:cx="397.21345"
+     inkscape:cy="562.18145"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke-width:0.865738;stroke-linecap:square;stroke-dashoffset:39.3071;stroke:none"
+       id="background"
+       width="200"
+       height="200"
+       x="5.3645325"
+       y="-250.47537"
+       transform="scale(1,-1)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="ring"
+       d="m 17.936652,233.00891 c 0.663623,-3.60211 3.230897,-13.99417 5.704995,-23.09347 l 4.498334,-16.54432 -4.768624,-11.67827 C 11.046298,151.50979 18.349722,114.14881 41.385472,89.540471 75.133476,53.488631 133.12099,52.922578 167.9427,88.305061 c 45.70066,46.436679 27.16757,123.314789 -34.97812,145.094949 -15.73933,5.51618 -45.717495,4.6391 -60.239659,-1.76259 l -9.790855,-4.316 -19.404818,4.99407 c -10.672705,2.74678 -21.068566,5.50003 -23.102037,6.11837 -3.268062,0.99387 -3.557122,0.36421 -2.490559,-5.42495 z M 122.70665,220.7167 c 21.45967,-5.58955 37.89509,-19.13103 48.57636,-40.023 5.88911,-11.51888 6.45643,-14.16079 6.47193,-30.14292 0.0149,-15.5996 -0.6532,-18.94535 -6.10332,-30.55956 C 149.39002,72.552402 87.153016,62.231915 52.432592,100.22167 41.29185,112.41132 36.792548,121.35883 33.730871,137.41269 c -2.759061,14.4663 -0.189925,32.01491 6.590421,45.02393 4.21568,8.08808 4.229459,8.3889 0.949777,20.69743 -1.830511,6.8695 -2.845459,12.97267 -2.255646,13.56255 0.589887,0.58989 6.541785,-0.3292 13.226424,-2.04114 11.691005,-2.99509 12.51342,-2.95897 21.593953,0.94739 18.950932,8.15243 31.9732,9.51513 48.87085,5.11385 z"
+       style="fill:#01da55;fill-opacity:1;stroke:none;stroke-width:2.20692;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:connector-curvature="0"
+       id="main"
+       d="M 116.57749,186.78599 C 91.069655,178.47 63.264313,148.16546 63.250981,128.66635 c -0.0028,-8.08152 6.506407,-16.86808 13.08439,-17.65452 4.026275,-0.48115 5.948546,0.75948 9.045526,5.83913 4.643869,7.61692 5.133356,17.64097 1.027684,21.04831 -1.605728,1.33268 -2.919567,3.50633 -2.919567,4.8303 0,4.36017 15.129703,19.69767 24.152806,24.48432 l 8.85449,4.69727 5.73196,-6.78742 5.73203,-6.7875 9.39305,4.86605 c 11.03342,5.71572 12.67095,10.72819 6.02779,18.45131 -4.94581,5.74991 -17.52261,8.15817 -26.80365,5.13239 z"
+       style="fill:#01da55;fill-opacity:1;stroke:none;stroke-width:2.20692;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
+</svg>
