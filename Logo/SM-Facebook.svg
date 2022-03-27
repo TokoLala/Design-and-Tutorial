@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="SM-Facebook.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.82648893"
+     inkscape:cx="184.51548"
+     inkscape:cy="208.10926"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="true"
+     width="100mm" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="facebook">
+      <path
+         style="fill:#ffffff;stroke-width:0.640056;stroke-linecap:square;stroke-dashoffset:39.3071"
+         d="m 45.458361,95.068677 c -4.107625,-0.461753 -4.110236,-0.462997 -3.8872,-1.857782 0.105166,-0.65768 0.28983,-7.493363 0.410363,-15.190407 L 42.200676,64.025861 H 36.386513 30.57235 v -7.362973 -7.362976 h 5.54945 5.54945 l 0.383056,-5.778388 c 0.690179,-10.411339 1.789049,-14.201376 4.997206,-17.235519 3.057142,-2.891315 6.747367,-4.129885 13.217319,-4.436195 3.135148,-0.148429 8.233994,0.237548 10.079585,0.763012 0.507307,0.144437 0.560226,0.712414 0.560226,6.01275 v 5.853247 l -3.601455,0.185021 c -3.880813,0.199371 -5.710553,0.691264 -7.419197,1.994511 -1.846152,1.408128 -2.10465,2.367119 -2.10465,7.807971 v 4.83359 h 6.129033 6.129028 l -0.199025,3.921586 c -0.109463,2.15687 -0.526579,5.434195 -0.92693,7.282942 l -0.727903,3.361356 -5.2021,0.08796 -5.202103,0.08796 v 15.314766 15.314763 l -1.446368,0.198245 c -2.791402,0.38261 -8.342733,0.484252 -10.878611,0.199187 z"
+         id="huruf" />
+      <path
+         style="fill:#0080ff;fill-opacity:1;stroke:none;stroke-width:1.00551;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="M 35.008096,93.022467 C 16.315646,86.075607 4.6093558,69.688177 4.5780158,50.423957 c -0.0266,-16.01905 7.1019002,-29.45226 20.1344402,-37.945 8.1948,-5.3401901 12.6846,-6.9013101 21.5337,-7.4874001 14.53933,-0.96299 25.3048,2.97905 35.44438,12.9787701 17.90246,17.65556 18.354144,45.26045 1.0353,63.27643 -5.57268,5.79705 -10.38929,8.93137 -17.87389,11.63121 -3.46296,1.24915 -6.47203,2.2712 -6.68683,2.2712 -0.21476,0 -0.39052,-6.98355 -0.39052,-15.519 v -15.51899 h 5.24727 5.24731 l 0.96033,-4.47765 c 0.52814,-2.46271 0.96025,-5.85472 0.96025,-7.5378 v -3.06015 h -6.2076 -6.20756 v -5.25642 c 0,-4.62238 0.28193,-5.47816 2.33655,-7.09442 1.63664,-1.28737 3.62904,-1.83796 6.65101,-1.83796 h 4.31442 v -6.15326 -6.15325 l -4.08402,-0.61242 c -6.17789,-0.92647 -14.07505,0.0726 -17.54958,2.21987 -4.96091,3.066 -6.72614,7.04368 -7.35165,16.5656 l -0.54666,8.32226 h -5.63046 -5.63043 v 7.5378 7.5378 h 5.76418 5.76422 v 15.51899 c 0,8.53545 -0.29938,15.49821 -0.66512,15.4728 -0.36578,-0.0254 -3.12833,-0.96165 -6.13896,-2.0805 z"
+         id="lingkaran"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
