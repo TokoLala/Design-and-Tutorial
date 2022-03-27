@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
    version="1.1"
    id="svg5"
    sodipodi:docname="SM-polos-Youtube.svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.54252946"
-     inkscape:cx="397.21345"
-     inkscape:cy="562.18145"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="398.80822"
+     inkscape:cy="1697.0563"
      inkscape:window-width="1600"
      inkscape:window-height="837"
      inkscape:window-x="-8"
@@ -39,18 +39,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:none;stroke-width:0.865738;stroke-linecap:square;stroke-dashoffset:39.3071;stroke:none"
-       id="background"
-       width="200"
-       height="200"
-       x="5.3645325"
-       y="-250.47537"
-       transform="scale(1,-1)" />
-    <path
-       style="fill:#fe0000;fill-opacity:1;stroke:none;stroke-width:2.09968;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 41.874128,202.67891 c -8.701367,-3.48511 -15.278679,-9.63829 -19.763927,-18.48939 -4.318945,-8.52315 -4.576029,-10.74318 -4.537689,-39.18841 0.04968,-34.2525 1.720444,-40.55265 13.532855,-50.924159 10.715107,-9.407929 16.296596,-10.085226 77.811853,-9.441955 59.09371,0.61791 58.77582,0.572566 68.99015,9.842876 2.24447,2.036991 5.82404,6.620248 7.95463,10.184948 3.55173,5.94244 3.87444,9.29307 3.88081,40.30187 0.002,23.62473 -0.6909,35.06909 -2.30788,37.962 -4.13307,7.39462 -11.42331,14.58813 -18.44427,18.19958 -6.34557,3.26395 -11.29746,3.52502 -64.81316,3.41666 -31.868486,-0.0637 -59.904996,-0.90342 -62.303372,-1.86402 z m 70.901932,-43.07523 c 26.56181,-13.41664 26.47296,-13.09522 6.60508,-23.895 -25.345839,-13.77733 -31.00046,-16.29943 -33.980255,-15.15602 -2.618464,1.00483 -3.055896,4.54606 -3.055896,24.73933 0,12.96171 0.555553,24.12226 1.23455,24.80126 2.450741,2.45081 6.354142,1.04839 29.196521,-10.48957 z"
-       id="main"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g1485"
+       transform="translate(-13.590103,-67.145184)">
+      <rect
+         style="fill:#ff0000;stroke-width:0.285905;stroke-linecap:square;stroke-dashoffset:39.3071"
+         id="button"
+         width="93.042274"
+         height="64.576088"
+         x="17.068966"
+         y="84.85714"
+         ry="18.186735" />
+      <path
+         style="fill:#ffffff;stroke-width:0.526985;stroke-linecap:square;stroke-dashoffset:39.3071"
+         d="m 53.353762,131.03249 c -0.606407,-0.41425 -0.885094,-5.96534 -0.782708,-15.59056 0.08247,-7.75297 0.161482,-9.24858 0.532634,-10.08238 0.832821,-1.87095 2.272843,-1.63658 8.300908,1.35098 4.722148,2.34035 15.009701,7.92496 16.546439,8.98226 2.429629,1.67163 2.478338,2.66938 0.211826,4.33919 -1.346613,0.99209 -15.138978,8.0597 -19.317119,9.89866 -2.499951,1.10032 -4.814453,1.56468 -5.49198,1.10185 z"
+         id="play" />
+    </g>
   </g>
 </svg>
