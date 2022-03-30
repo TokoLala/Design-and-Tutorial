@@ -1,0 +1,235 @@
+/* ---------------
+     BUTTON 009
+------------------ */
+button.button3.a3 {
+  background-color: red;
+  margin: auto;
+  position: relative;
+  color: #21ebff;
+  background-color: transparent;
+  border: none;
+  overflow: hidden;
+  transition: 0.7s;
+  /* -webkit-box-reflect: below 0px linear-gradient(transparent, #003); */
+}
+
+button.button3.a3:hover {
+  background-color: #21ebff;
+  color: #111;
+  box-shadow: 0 0 50px #21ebff;
+  transition-delay: 0.7s;
+}
+
+button.button3.a3::before {
+  content: "";
+  position: absolute;
+  width: 0%;
+  border-top: 2px solid #21ebff;
+  transition: 0.7s;
+  /* Different */
+  top: 0;
+  left: 0;
+  /* --------- */
+}
+
+button.button3.a3:hover:before {
+  width: 100%;
+  /* Different */
+  left: 100%;
+  /* --------- */
+}
+
+button.button3.a3::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  border-bottom: 2px solid #21ebff;
+  transition: 0.7s;
+  /* Different */
+  bottom: 0;
+  right: 0;
+  /* --------- */
+}
+
+button.button3.a3:hover::after {
+  width: 100%;
+  /* Different */
+  right: 100%;
+  /* --------- */
+}
+/* ---------------
+     BUTTON 010
+------------------ */
+button.button3.b3 {
+  background-color: red;
+  margin: auto;
+  position: relative;
+  color: #21ebff;
+  background-color: transparent;
+  border: none;
+  overflow: hidden;
+  transition: 0.7s;
+  /* -webkit-box-reflect: below 0px linear-gradient(transparent, #003); */
+}
+
+button.button3.b3:hover {
+  background-color: #21ebff;
+  color: #111;
+  box-shadow: 0 0 50px #21ebff;
+  transition-delay: 1.4s;
+}
+
+button.button3.b3::before {
+  content: "";
+  position: absolute;
+  width: 0%;
+  border-top: 2px solid #21ebff;
+  transition: 0.7s;
+  /* Different */
+  top: 0;
+  right: 0;
+  /* --------- */
+}
+
+button.button3.b3:hover:before {
+  width: 100%;
+  /* Different */
+  right: 100%;
+  /* --------- */
+}
+
+button.button3.b3::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  border-bottom: 2px solid #21ebff;
+  transition: 0.7s;
+  /* Different */
+  bottom: 0;
+  left: 0;
+  /* --------- */
+}
+
+button.button3.b3:hover::after {
+  width: 100%;
+  /* Different */
+  left: 100%;
+  transition-delay: 0.7s;
+  /* --------- */
+}
+/* ---------------
+     BUTTON 011
+------------------ */
+button.button3.c3 {
+  background-color: red;
+  margin: auto;
+  position: relative;
+  color: #21ebff;
+  background-color: transparent;
+  border: none;
+  overflow: hidden;
+  transition: 0.7s;
+  /* -webkit-box-reflect: below 0px linear-gradient(transparent, #003); */
+}
+
+button.button3.c3:hover {
+  background-color: #21ebff;
+  color: #111;
+  box-shadow: 0 0 50px #21ebff;
+  transition-delay: 0.7s;
+}
+
+button.button3.c3::before {
+  content: "";
+  position: absolute;
+  height: 0%;
+  border-right: 2px solid #21ebff;
+  transition: 0.7s;
+  /* Different */
+  top: 0;
+  right: 0;
+  /* --------- */
+}
+
+button.button3.c3:hover:before {
+  height: 100%;
+  /* Different */
+  top: 100%;
+  /* --------- */
+}
+
+button.button3.c3::after {
+  content: "";
+  position: absolute;
+  height: 0%;
+  border-left: 2px solid #21ebff;
+  transition: 0.7s;
+  /* Different */
+  bottom: 0;
+  left: 0;
+  /* --------- */
+}
+
+button.button3.c3:hover::after {
+  height: 100%;
+  /* Different */
+  bottom: 100%;
+  /* --------- */
+}
+/* ---------------
+     BUTTON 012
+------------------ */
+button.button3.d3 {
+  background-color: red;
+  margin: auto;
+  position: relative;
+  color: #21ebff;
+  background-color: transparent;
+  border: none;
+  overflow: hidden;
+  transition: 0.7s;
+  /* -webkit-box-reflect: below 0px linear-gradient(transparent, #003); */
+}
+button.button3.d3:hover {
+  background-color: #21ebff;
+  color: #111;
+  box-shadow: 0 0 50px #21ebff;
+  transition-delay: 1.4s;
+}
+
+button.button3.d3::before {
+  content: "";
+  position: absolute;
+  height: 0%;
+  border-right: 2px solid #21ebff;
+  transition: 0.7s;
+  /* Different */
+  bottom: 0;
+  right: 0;
+  /* --------- */
+}
+button.button3.d3:hover:before {
+  height: 100%;
+  /* Different */
+  bottom: 100%;
+  /* --------- */
+}
+
+button.button3.d3::after {
+  content: "";
+  position: absolute;
+  height: 0%;
+  border-left: 2px solid #21ebff;
+  transition: 0.7s;
+  /* Different */
+  top: 0;
+  left: 0;
+  /* --------- */
+}
+button.button3.d3:hover::after {
+  height: 100%;
+  /* Different */
+  top: 100%;
+  transition-delay: 0.7s;
+  /* --------- */
+}
