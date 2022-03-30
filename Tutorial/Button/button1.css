@@ -1,0 +1,135 @@
+/* -----------
+     BUTTON 001 
+--------------- */
+button.button1.a1 {
+  background-color: transparent;
+  overflow: hidden;
+  border: 2px solid hsl(235, 100%, 50%);
+  position: relative;
+  transition: 0.7s;
+  color: hsl(235, 100%, 50%);
+}
+button.button1.a1:hover {
+  color: hsl(0, 0%, 90%);
+}
+button.button1.a1::before {
+  content: "";
+  background-color: hsl(235, 100%, 50%);
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+  transition: 0.7s;
+  left: 0;
+  /* different */
+  height: 0%;
+  top: 0;
+  border-radius: 0 0 50% 50%;
+  /* ----------- */
+}
+button.button1.a1:hover:before {
+  /* different */
+  height: 180%;
+  /* ----------- */
+}
+
+/* -----------
+     BUTTON 002 
+--------------- */
+button.button1.b1 {
+  background-color: transparent;
+  overflow: hidden;
+  border: 2px solid hsl(235, 100%, 50%);
+  position: relative;
+  transition: 0.7s;
+  color: hsl(235, 100%, 50%);
+}
+button.button1.b1:hover {
+  color: hsl(0, 0%, 90%);
+}
+button.button1.b1::before {
+  content: "";
+  background-color: hsl(235, 100%, 50%);
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+  transition: 0.7s;
+  left: 0;
+  /* different */
+  height: 0%;
+  bottom: 0;
+  border-radius: 50% 50% 0 0;
+  /* ----------- */
+}
+button.button1.b1:hover:before {
+  /* different */
+  height: 180%;
+  /* ----------- */
+}
+
+/* -----------
+     BUTTON 003 
+--------------- */
+button.button1.c1 {
+  background-color: transparent;
+  overflow: hidden;
+  border: 2px solid hsl(235, 100%, 50%);
+  position: relative;
+  transition: 0.7s;
+  color: hsl(0, 0%, 90%);
+}
+button.button1.c1:hover {
+  color: hsl(235, 100%, 50%);
+}
+button.button1.c1::before {
+  content: "";
+  background-color: hsl(235, 100%, 50%);
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+  transition: 0.7s;
+  left: 0;
+  /* different */
+  height: 180%;
+  top: 0;
+  border-radius: 0 0 50% 50%;
+  /* ----------- */
+}
+button.button1.c1:hover:before {
+  /* different */
+  height: 0;
+  /* ----------- */
+}
+
+/* -----------
+     BUTTON 003 
+--------------- */
+button.button1.d1 {
+  background-color: transparent;
+  overflow: hidden;
+  border: 2px solid hsl(235, 100%, 50%);
+  position: relative;
+  transition: 0.7s;
+  color: hsl(0, 0%, 90%);
+}
+button.button1.d1:hover {
+  color: hsl(235, 100%, 50%);
+}
+button.button1.d1::before {
+  content: "";
+  background-color: hsl(235, 100%, 50%);
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+  transition: 0.7s;
+  left: 0;
+  /* different */
+  height: 180%;
+  bottom: 0;
+  border-radius: 50% 50% 0 0;
+  /* ----------- */
+}
+button.button1.d1:hover:before {
+  /* different */
+  height: 0;
+  /* ----------- */
+}
