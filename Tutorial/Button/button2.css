@@ -1,0 +1,42 @@
+button.button2 {
+  background-color: hsl(0 0% 100%);
+  border: none;
+  color: black;
+  position: relative;
+  border-radius: 0;
+  transition: 0.7s;
+  transition-delay: 0.7s;
+}
+button.button2:hover {
+  color: red;
+}
+button.button2::before {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  background-color: red;
+  width: 0%;
+  height: 0%;
+  z-index: -1;
+  transition: 0.7s;
+}
+button.button2:hover:before {
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+}
+button.button2::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  right: -2px;
+  background-color: red;
+  width: 0%;
+  height: 0%;
+  z-index: -1;
+  transition: 0.7s;
+}
+button.button2:hover:after {
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+}
