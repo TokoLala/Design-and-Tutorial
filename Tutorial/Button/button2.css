@@ -1,42 +1,211 @@
-button.button2 {
+/* ---------------
+     BUTTON 005
+------------------ */
+button.button2.a2 {
   background-color: hsl(0 0% 100%);
-  border: none;
-  color: black;
+  border: transparent;
+  color: red;
   position: relative;
   border-radius: 0;
   transition: 0.7s;
   transition-delay: 0.7s;
+  /* overflow: hidden; */
 }
-button.button2:hover {
-  color: red;
+button.button2.a2:hover {
+  background-color: red;
+  color: white;
+  /* box-shadow: 0 0 5rem red; */
 }
-button.button2::before {
+button.button2.a2::before {
   content: "";
   position: absolute;
+  background-color: red;
+  z-index: -1;
+  transition: 0.7s;
+  /* Different */
   top: -2px;
   left: -2px;
-  background-color: red;
-  width: 0%;
-  height: 0%;
-  z-index: -1;
-  transition: 0.7s;
+  width: 10px;
+  height: 10px;
+  /* --------------- */
 }
-button.button2:hover:before {
+button.button2.a2:hover:before {
   width: calc(100% + 4px);
   height: calc(100% + 4px);
 }
-button.button2::after {
+button.button2.a2::after {
   content: "";
   position: absolute;
-  bottom: -2px;
-  right: -2px;
   background-color: red;
-  width: 0%;
-  height: 0%;
   z-index: -1;
   transition: 0.7s;
+  /* Different */
+  bottom: -2px;
+  right: -2px;
+  width: 10px;
+  height: 10px;
+  /* --------------- */
 }
-button.button2:hover:after {
+button.button2.a2:hover:after {
   width: calc(100% + 4px);
   height: calc(100% + 4px);
+}
+
+/* ---------------
+     BUTTON 006
+------------------ */
+button.button2.b2 {
+  background-color: hsl(0 0% 100%);
+  border: transparent;
+  color: red;
+  position: relative;
+  border-radius: 0;
+  transition: 0.7s;
+  transition-delay: 0.7s;
+  /* overflow: hidden; */
+}
+button.button2.b2:hover {
+  background-color: red;
+  color: white;
+  /* box-shadow: 0 0 5rem red; */
+}
+button.button2.b2::before {
+  content: "";
+  position: absolute;
+  background-color: red;
+  z-index: -1;
+  transition: 0.7s;
+  /* Different */
+  top: -2px;
+  right: -2px;
+  width: 10px;
+  height: 10px;
+  /* --------------- */
+}
+button.button2.b2:hover:before {
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+}
+button.button2.b2::after {
+  content: "";
+  position: absolute;
+  background-color: red;
+  z-index: -1;
+  transition: 0.7s;
+  /* Different */
+  bottom: -2px;
+  left: -2px;
+  width: 10px;
+  height: 10px;
+  /* --------------- */
+}
+button.button2.b2:hover:after {
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+}
+
+/* ---------------
+     BUTTON 007
+------------------ */
+button.button2.c2 {
+  background-color: hsl(0 0% 100%/0);
+  border: transparent;
+  color: red;
+  position: relative;
+  border-radius: 0;
+  transition: 0.7s;
+  transition-delay: 0.7s;
+  overflow: hidden;
+}
+button.button2.c2:hover {
+  background-color: red;
+  color: white;
+  /* box-shadow: 0 0 5rem red; */
+}
+button.button2.c2::before {
+  content: "";
+  position: absolute;
+  background-color: red;
+  z-index: -1;
+  transition: 0.35s;
+  /* Different */
+  top: 0px;
+  right: 0;
+  width: 0px;
+  height: 2px;
+  /* --------------- */
+}
+button.button2.c2:hover:before {
+  width: 100%;
+}
+button.button2.c2::after {
+  content: "";
+  position: absolute;
+  background-color: red;
+  z-index: -1;
+  transition: 0.35s;
+  /* Different */
+  bottom: 0px;
+  left: 0px;
+  width: 0px;
+  height: 2px;
+  /* --------------- */
+}
+button.button2.c2:hover:after {
+  width: 100%;
+  transition-delay: 0.35s;
+  /* height: calc(100% + 4px); */
+}
+
+/* ---------------
+     BUTTON 008
+------------------ */
+button.button2.d2 {
+  background-color: hsl(0 0% 100%/0);
+  border: transparent;
+  color: red;
+  position: relative;
+  border-radius: 0;
+  transition: 0.7s;
+  transition-delay: 0.7s;
+  overflow: hidden;
+}
+button.button2.d2:hover {
+  background-color: red;
+  color: white;
+  /* box-shadow: 0 0 5rem red; */
+}
+button.button2.d2::before {
+  content: "";
+  position: absolute;
+  background-color: red;
+  z-index: -1;
+  transition: 0.7s;
+  /* Different */
+  top: 0px;
+  right: 0px;
+  width: 2px;
+  height: 0px;
+  /* --------------- */
+}
+button.button2.d2:hover:before {
+  /* width: 100%; */
+  height: 100%;
+}
+button.button2.d2::after {
+  content: "";
+  position: absolute;
+  background-color: red;
+  z-index: -1;
+  transition: 0.7s;
+  /* Different */
+  bottom: 0px;
+  left: 0px;
+  width: 2px;
+  height: 0px;
+  /* --------------- */
+}
+button.button2.d2:hover:after {
+  /* width: 100%; */
+  height: 100%;
 }
